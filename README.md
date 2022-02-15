@@ -1,4 +1,4 @@
-### Hello, welcome to my Repository
+<!-- ### Hello, welcome to my Repository
 
 - Currently working as an app developer
 - Machine learning and data science
@@ -24,4 +24,4 @@
   
   <img align="center" alt="Farioso-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
   
-</div>
+</div> -->
