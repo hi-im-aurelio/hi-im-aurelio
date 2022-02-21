@@ -1,13 +1,13 @@
 ### Hello, welcome to my Repository
 
-- Currently working as an app developer
-- Machine learning and data science
-- E-mail: farioso.f@gmail.com
+- Currently working as a software engineer
+- Machine learning and data science fan
+- Email: farioso.f@gmail.com
 <br>
  <div>
-  <a href="https://github.com/farioso-fernando">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=farioso-fernando&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
- <br><br> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farioso-fernando&layout=compact&langs_count=7&theme=light"/>
+  <a href="https://github.com/fariosofernando">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=fariosofernando&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
+ <br><br> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fariosofernando&layout=compact&langs_count=7&theme=light"/>
 </div>
 <div style="display: inline_block"><br>
  
