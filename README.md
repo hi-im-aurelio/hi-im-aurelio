@@ -1,6 +1,6 @@
 ### Hello, welcome to my Repository
 
-- Currently working as a software engineer
+- Currently working as a mobile developer
 - Machine learning and data science fan
 - Email: farioso.f@gmail.com
 <br>
