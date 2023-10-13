@@ -19,3 +19,11 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-style=flat&logo=github)
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-style=flat&logo=bitbucket)
 ![Docker](https://img.shields.io/badge/-Docker-style=flat&logo=docker)
+
+**Recent Projects**
+
+[H-Shell](https://github.com/fariosofernando/Hive_Shell)
+- Hive Shell is a specialized auxiliary development tool tailored for Flutter developers who leverage Hive as their local data storage solution.
+
+[Run Small Dropbox](https://github.com/fariosofernando/run-small-dropbox-package)
+- A simple package to access dropbox, using dart.
