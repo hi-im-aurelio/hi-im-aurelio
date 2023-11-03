@@ -12,6 +12,7 @@
 ![Kotlin](https://img.shields.io/badge/-Kotlin-style=flat&logo=Kotlin&logoColor=007396)
 ![Dart](https://img.shields.io/badge/-Dart-style=flat&logo=Dart)
 ![Java](https://img.shields.io/badge/-Java-style=flat&logo=Java&logoColor=00599C)
+![Typescript](https://img.shields.io/badge/-Typescript-style=flat&logo=Typescript&logoColor=00599C)
 
 **DevOps**
 
