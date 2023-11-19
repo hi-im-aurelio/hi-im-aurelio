@@ -1,30 +1,42 @@
-### Hello, welcome to my Repository
+### Welcome to My GitHub Repository 👋
 
-- Currently working as a mobile programmer (Android/iOS)
-- Fan of machine learning and data science
+#### About Me
+
+- Mobile Programmer (Android/iOS)
+- Backend Developer (Node.js, Python)
+- Passionate about Machine Learning and Data Science
 - Writer
 - Email: farioso.f@gmail.com
 
-**Languages**
+#### Languages
 
-![C++](https://img.shields.io/badge/-C++-style=flat&logo=C%2B%2B&logoColor=00599C)
-![Python](https://img.shields.io/badge/-Python-style=flat&logo=Python&logoColor=00599C)
-![Kotlin](https://img.shields.io/badge/-Kotlin-style=flat&logo=Kotlin&logoColor=007396)
-![Dart](https://img.shields.io/badge/-Dart-style=flat&logo=Dart)
-![Java](https://img.shields.io/badge/-Java-style=flat&logo=Java&logoColor=00599C)
-![Typescript](https://img.shields.io/badge/-Typescript-style=flat&logo=Typescript&logoColor=00599C)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=C%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-00599C?style=flat&logo=Python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-007396?style=flat&logo=Kotlin&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=Dart&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-00599C?style=flat&logo=Java&logoColor=white)
+![Typescript](https://img.shields.io/badge/-Typescript-3178C6?style=flat&logo=Typescript&logoColor=white)
 
-**DevOps**
+#### Backend Technologies
 
-![Git](https://img.shields.io/badge/-Git-style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-style=flat&logo=github)
-![Bitbucket](https://img.shields.io/badge/-Bitbucket-style=flat&logo=bitbucket)
-![Docker](https://img.shields.io/badge/-Docker-style=flat&logo=docker)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
 
-**Recent Projects**
+#### DevOps
 
-[H-Shell](https://github.com/fariosofernando/Hive_Shell)
-- Hive Shell is a specialized auxiliary development tool tailored for Flutter developers who leverage Hive as their local data storage solution.
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?style=flat&logo=bitbucket&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-[Run Small Dropbox](https://github.com/fariosofernando/run-small-dropbox-package)
-- A simple package to access dropbox, using dart.
+#### Recent Projects
+
+### [H-Shell](https://github.com/fariosofernando/Hive_Shell)
+
+Hive Shell is a specialized auxiliary development tool tailored for Flutter developers who leverage Hive as their local data storage solution.
+
+### [Run Small Dropbox](https://github.com/fariosofernando/run-small-dropbox-package)
+
+A simple package to access Dropbox, using Dart.
+
+Feel free to explore my projects, and don't hesitate to reach out to me via email!
