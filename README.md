@@ -2,7 +2,7 @@
 
 #### About Me
 
-- Mobile Programmer (Android/iOS)
+- Mobile Programmer (Android)
 - Backend Developer (Node.js, Python)
 - Passionate about Machine Learning and Data Science
 - Writer
