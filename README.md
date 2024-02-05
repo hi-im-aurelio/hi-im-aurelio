@@ -32,6 +32,10 @@
 
 #### Recent Projects
 
+### [Combine](https://github.com/fariosofernando/combine)
+
+Combine makes it easy to update the user interface in Flutter applications in a simple and efficient way, inspired by the concept of “code push”.
+
 ### [H-Shell](https://github.com/fariosofernando/Hive_Shell)
 
 Hive Shell is a specialized auxiliary development tool tailored for Flutter developers who leverage Hive as their local data storage solution.
