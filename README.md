@@ -3,7 +3,7 @@
 #### About Me
 
 - Mobile Programmer (Android)
-- Backend Developer (Node.js, Python)
+- Backend Developer (Node.js, Python, Dart, Ruby)
 - Passionate about Machine Learning and Data Science
 - Writer
 - Email: farioso.f@gmail.com
@@ -16,6 +16,7 @@
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=Dart&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-00599C?style=flat&logo=Java&logoColor=white)
 ![Typescript](https://img.shields.io/badge/-Typescript-3178C6?style=flat&logo=Typescript&logoColor=white)
+![Ruby](https://img.shields.io/badge/-Ruby-3178C6?style=flat&logo=Ruby&logoColor=white)
 
 #### Backend Technologies
 
