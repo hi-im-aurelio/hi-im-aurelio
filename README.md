@@ -33,6 +33,10 @@
 
 #### Recent Projects
 
+### [Theo - The God Eye](https://github.com/fariosofernando/theo_gods_eye)
+
+A set of tools that send information from your server (local/remote) to a specified location.
+
 ### [Combine](https://github.com/fariosofernando/combine)
 
 Combine makes it easy to update the user interface in Flutter applications in a simple and efficient way, inspired by the concept of “code push”.
