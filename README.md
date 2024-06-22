@@ -17,6 +17,7 @@
 ![Java](https://img.shields.io/badge/-Java-00599C?style=flat&logo=Java&logoColor=white)
 ![Typescript](https://img.shields.io/badge/-Typescript-3178C6?style=flat&logo=Typescript&logoColor=white)
 ![Ruby](https://img.shields.io/badge/-Ruby-3178C6?style=flat&logo=Ruby&logoColor=white)
+![Shell](https://img.shields.io/badge/-Shell-3178C6?style=flat&logo=shell&logoColor=white)
 
 #### Backend Technologies
 
@@ -26,6 +27,7 @@
 
 #### DevOps
 
+![Linux](https://img.shields.io/badge/-Linux-F05032?style=flat&logo=linux&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?style=flat&logo=bitbucket&logoColor=white)
