@@ -14,10 +14,9 @@
 ![Python](https://img.shields.io/badge/-Python-00599C?style=flat&logo=Python&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-007396?style=flat&logo=Kotlin&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=Dart&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-00599C?style=flat&logo=Java&logoColor=white)
 ![Typescript](https://img.shields.io/badge/-Typescript-3178C6?style=flat&logo=Typescript&logoColor=white)
 ![Ruby](https://img.shields.io/badge/-Ruby-3178C6?style=flat&logo=Ruby&logoColor=white)
-![Shell](https://img.shields.io/badge/-Shell-3178C6?style=flat&logo=shell&logoColor=white)
+![Shell](https://img.shields.io/badge/-Shell_Script-3178C6?style=flat&logo=gnubash&logoColor=white)
 
 #### Backend Technologies
 
