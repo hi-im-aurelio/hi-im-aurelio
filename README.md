@@ -3,8 +3,8 @@
 #### About Me
 
 - Mobile Programmer (Android)
-- Backend Developer (Node.js, Python, Dart, Ruby)
-- Passionate about Machine Learning and Data Science
+- Backend Developer (Node.js, Python, Dart, Ruby, Rust)
+- Passionate about performance and low-level programming
 - Writer
 - Email: farioso.f@gmail.com
 
@@ -13,6 +13,7 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=C%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-00599C?style=flat&logo=Python&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-007396?style=flat&logo=Kotlin&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-0175C2?style=flat&logo=Rust&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=Dart&logoColor=white)
 ![Typescript](https://img.shields.io/badge/-Typescript-3178C6?style=flat&logo=Typescript&logoColor=white)
 ![Ruby](https://img.shields.io/badge/-Ruby-3178C6?style=flat&logo=Ruby&logoColor=white)
