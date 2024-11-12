@@ -2,8 +2,8 @@
 
 #### About Me
 
-- Mobile Programmer (Android)
-- Backend Developer (Node.js, Python, Dart, Ruby, Rust)
+- Infra & Backend Developer (Node.js, Python, Dart, Ruby, Rust, C++)
+- Mobile Programmer (Android with Flutter)
 - Passionate about performance and low-level programming
 - Writer
 - Email: farioso.f@gmail.com
