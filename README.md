@@ -43,7 +43,7 @@ A set of tools that send information from your server (local/remote) to a specif
 
 An automatic backup tool for PostgreSQL in Docker containers.
 
-### [OWL - Experimentarl Version](https://github.com/hi-im-aurelio/owl-experimental)
+### [OWL - Experimental Version](https://github.com/hi-im-aurelio/owl-experimental)
 
 A Rust-based tool designed to automate the backup and synchronization of local Git repositories. 
 
