@@ -39,16 +39,20 @@
 
 A set of tools that send information from your server (local/remote) to a specified location.
 
-### [Combine](https://github.com/fariosofernando/combine)
+### [Purrgres](https://github.com/hi-im-aurelio/Purrgres)
 
-Combine makes it easy to update the user interface in Flutter applications in a simple and efficient way, inspired by the concept of “code push”.
+An automatic backup tool for PostgreSQL in Docker containers.
 
-### [H-Shell](https://github.com/fariosofernando/Hive_Shell)
+### [OWL - Experimentarl Version](https://github.com/hi-im-aurelio/owl-experimental)
 
-Hive Shell is a specialized auxiliary development tool tailored for Flutter developers who leverage Hive as their local data storage solution.
+A Rust-based tool designed to automate the backup and synchronization of local Git repositories. 
 
 ### [Run Small Dropbox](https://github.com/fariosofernando/run-small-dropbox-package)
 
 A simple package to access Dropbox, using Dart.
+
+### [Combine](https://github.com/fariosofernando/combine)
+
+Combine makes it easy to update the user interface in Flutter applications in a simple and efficient way, inspired by the concept of “code push”.
 
 Feel free to explore my projects, and don't hesitate to reach out to me via email!
