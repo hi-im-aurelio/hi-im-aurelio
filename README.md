@@ -1,9 +1,9 @@
-### Welcome to My GitHub Repository 👋
+### Welcome... no, you know what? Yesterday I didn't eat and I'm hungry. What do you want here?! 😡
 
 #### About Me
 
 - Infra & Backend Developer (Node.js, Python, Dart, Ruby, Rust, C++)
-- Mobile Programmer (Android with Flutter)
+- Mobile Programmer (Android)
 - Passionate about performance and low-level programming
 - Writer
 - Email: farioso.f@gmail.com
