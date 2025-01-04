@@ -6,7 +6,7 @@
 - Mobile Programmer (Android)
 - Passionate about performance and low-level programming
 - Writer
-- Email: farioso.f@gmail.com
+- Email: ff.m@tutamail.com
 
 #### Languages
 
@@ -35,7 +35,7 @@
 
 #### Recent Projects
 
-### [Theo - The God Eye](https://github.com/fariosofernando/theo_gods_eye)
+### [Theo - The God Eye](https://github.com/hi-im-aurelio/theo_gods_eye)
 
 A set of tools that send information from your server (local/remote) to a specified location.
 
@@ -51,7 +51,7 @@ A Rust-based tool designed to automate the backup and synchronization of local G
 
 A simple package to access Dropbox, using Dart.
 
-### [Combine](https://github.com/fariosofernando/combine)
+### [Combine](https://github.com/hi-im-aurelio/combine)
 
 Combine makes it easy to update the user interface in Flutter applications in a simple and efficient way, inspired by the concept of “code push”.
 
