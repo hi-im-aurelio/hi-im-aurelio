@@ -1,4 +1,4 @@
-### Welcome... no, you know what? Yesterday I didn't eat and I'm hungry. What do you want here?! 😡
+> A free program belongs to human knowledge. A proprietary program does not. - Richard Stallman.
 
 #### About Me
 
