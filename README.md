@@ -2,13 +2,12 @@
 
 #### About Me
 
-- Infra & Backend Developer (Node.js, Python, Dart, Ruby, Rust, C++)
-- Mobile Programmer (Android)
+- Infra & Backend Developer
 - Passionate about performance and low-level programming
 - Writer
 - Email: ff.m@tutamail.com
 
-#### Languages
+#### Some Languages
 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=C%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-00599C?style=flat&logo=Python&logoColor=white)
@@ -19,7 +18,7 @@
 ![Ruby](https://img.shields.io/badge/-Ruby-3178C6?style=flat&logo=Ruby&logoColor=white)
 ![Shell](https://img.shields.io/badge/-Shell-3178C6?style=flat&logo=gnubash&logoColor=white)
 
-#### Backend Technologies
+#### Some Backend Technologies
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
